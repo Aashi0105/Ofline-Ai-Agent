@@ -1,5 +1,4 @@
-# Ofline-Ai-Agent
-Offline AI Agent with Tool Calling, RAG, ChromaDB and Streamlit
+
 # Offline AI Agent
 
 An offline AI Agent built using Llama 3.1, Ollama, ChromaDB and Streamlit.
