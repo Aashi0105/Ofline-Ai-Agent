@@ -31,12 +31,41 @@ An offline AI Agent built using Llama 3.1, Ollama, ChromaDB and Streamlit.
 
 ## Installation
 
-...
+### 1. Clone the repository
 
-## Demo
+```bash
+git clone https://github.com/yourusername/offline-ai-agent.git
+```
 
-GIF
+### 2. Go to the project folder
 
-## Screenshots
+```bash
+cd offline-ai-agent
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Start Ollama
+
+```bash
+ollama serve
+```
+
+### 5. Pull the required models
+
+```bash
+ollama pull llama3.1
+ollama pull nomic-embed-text
+```
+
+### 6. Run the application
+
+```bash
+streamlit run app.py
+```
 
 ...
