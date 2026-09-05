@@ -1,0 +1,36 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Vector Database (local ChromaDB cache, regenerated via ingest.py / app.py)
+chroma_db/
+
+# Logs & Execution Trajectories (contains local chat and query history)
+logs/
+*.log
+
+# Environment & Secrets
+.env
+*.env
+.env.local
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor Folders
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
