@@ -220,6 +220,4 @@ This agent implements a **strictly sandboxed AST evaluator** in `agent.py` and `
 
 ---
 
-## 📄 License
 
-This project is currently not yet licensed. You may customize and add an open-source license (such as MIT or Apache 2.0) if you choose to publish it publicly.
