@@ -143,10 +143,7 @@ streamlit run app.py
 2. Use the **Agent Controls** sidebar to upload a PDF or CSV file.
 3. Start chatting! Watch the agent reason and invoke tools in real time.
 
-<!-- PLACEHOLDER: Add a screenshot or demo GIF of the Streamlit Chat UI here -->
-> 📷 *Tip: Add a preview screenshot or recording here (`assets/demo.gif` or `assets/ui_screenshot.png`).*
 
----
 
 ### Option B: CLI Pipeline
 
